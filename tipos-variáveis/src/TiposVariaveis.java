@@ -8,9 +8,10 @@ public class TiposVariaveis {
 
         numero = 2;
 
-        System.out.println(numero);
+        System.out.println(numero2);
 
         final double Valor_De_Pi = 3.14; 
-        
+        System.out.println(Valor_De_Pi);  
+        System.out.println(salario);
     }
 }
